@@ -12,6 +12,7 @@
   "dependencies": {
     "@langchain/core": "^1.2.8",
     "@langchain/google-genai": "^2.2.0",
+    "@langchain/openrouter": "^0.4.8",
     "@qdrant/js-client-rest": "^1.19.0",
     "dotenv": "^17.4.2",
     "mem0ai": "^3.1.6"
