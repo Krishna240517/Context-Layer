@@ -1,0 +1,19 @@
+{
+  "name": "production_context",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.2.8",
+    "@langchain/google-genai": "^2.2.0",
+    "@qdrant/js-client-rest": "^1.19.0",
+    "dotenv": "^17.4.2",
+    "mem0ai": "^3.1.6"
+  }
+}
